@@ -1,0 +1,20 @@
+strong{
+	font-family: 幼圆,微软雅黑,楷体,Arial;
+}
+
+.best{
+	color: blue;
+}
+.better{
+	color: Cyan;
+}
+
+.good{
+	color:LawnGreen;
+}
+.normal{
+	color: DarkGreen;
+}
+.bad{
+	color: red;
+}
